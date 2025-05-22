@@ -17,7 +17,7 @@ const Navigation: React.FC = () => {
                   href={`#${section.id}`}
                   className="text-gray-300 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors"
                 >
-                  {section.title}
+                  
                 </a>
               ))}
             </div>
