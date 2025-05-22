@@ -13,7 +13,7 @@ export const storyData: StorySection[] = [
       "In the vast digital cosmos, where streams of data flow like rivers of light and code forms the very fabric of reality, there exists a realm known as the Land of Solana. This magnificent blockchain kingdom was once a place of harmony and prosperity, where the citizens lived in perfect balance through the sacred cycle of Play, Trade, and Earn.",
       "The people of Solana were diverse and vibrant, each contributing to the realm's thriving ecosystem. They played games of skill and strategy, traded valuable digital artifacts, and earned rewards that sustained their digital lives. The kingdom flourished under this balanced system, growing faster and more efficiently than any other digital realm."
     ],
-    image: "../assets/images/scene1_land_of_solana.png"
+    image: "scene1_land_of_solana.png"
   },
   {
     id: "darklord",
